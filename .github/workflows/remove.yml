@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - run: rm -r VFABM(sample)
+      - run: rm -r "VFABM(sample)"
 
       - uses: mikeal/publish-to-github-action@master
         env:
