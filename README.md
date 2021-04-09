@@ -6,7 +6,7 @@
 
 - Explore the power of github workflow
 - Automate your video conversion work
-- Connect cdn with your github repo and publish videos directly from github
+- Connect cdn with your github repo and publish videos directly from github (For private repo, For public repo use raw.githubusercontent.com)
 - No bandwidth limitations
 - Host videos for you vlog
 
