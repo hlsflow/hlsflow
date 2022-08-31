@@ -1,4 +1,4 @@
-# Change input and output details
+# Change input and output detailsss
 
 output_path="big-buck-bunny" # Output Path (Same will be pushed in main also)
 input_url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" # Input direct file url
